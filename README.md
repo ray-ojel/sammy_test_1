@@ -10,7 +10,7 @@ Assignment Number 1: Due 10/5/2020 by 11:59 PM
 
 1. Change to that directory.
 
-2. Clone this repository in that directory. 
+2. Clone this repository in that directory. And Change to it.
 
 3. Create a new branch called "sammy-issa"
 
